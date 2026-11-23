@@ -1,0 +1,2073 @@
+Please enter K:
+Please enter a seed number:
+Welcome to Number Crush! (K = 5, 100 swaps in total)
+Enter each swap as a four-digit number, e.g. 2122 swaps the numbers at cells 21 and 22.
+
+############## STEP 1 ###############
+Total score: 0
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 4 1 4 3 2 1 1
+1 | 5 4 2 5 5 1 4 3 5 4
+2 | 2 3 1 4 3 1 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 01 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 2 ###############
+Total score: 3
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 4 2 1 4 3 2 1 1
+1 | 5 4 2 5 5 1 4 3 5 4
+2 | 2 3 1 4 3 1 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 05 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 3 ###############
+Total score: 6
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 4 2 4 4 3 2 1 1
+1 | 5 4 2 5 5 4 4 3 5 4
+2 | 2 3 1 4 3 5 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 4 ###############
+Total score: 9
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 5 4 5 3 2 1 1
+1 | 5 4 2 5 5 4 4 3 5 4
+2 | 2 3 1 4 3 5 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 14 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 6
+
+############## STEP 5 ###############
+Total score: 15
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 5 5 1 5 2 1 1
+1 | 5 4 2 5 2 1 3 3 5 4
+2 | 2 3 1 4 3 5 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 06 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 6 ###############
+Total score: 18
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 5 5 1 1 2 1 1
+1 | 5 4 2 5 2 1 3 3 5 4
+2 | 2 3 1 4 3 5 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 07 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 7 ###############
+Total score: 27
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 5 5 1 2 2 3 2
+1 | 5 4 2 5 2 1 3 3 5 4
+2 | 2 3 1 4 3 5 4 3 4 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 07 and 08 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 4 numbers are eliminated! (+12 points)
+[round 2] 4 numbers are eliminated! (+12 points)
+Score obtained in this step: 27
+
+############## STEP 8 ###############
+Total score: 54
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 5 5 1 5 3 4 2
+1 | 5 4 2 5 2 1 5 2 1 3
+2 | 2 3 1 4 3 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 06 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 9 ###############
+Total score: 57
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 2 3 5 1 3 4 2
+1 | 5 4 2 5 2 1 5 2 1 3
+2 | 2 3 1 4 3 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+[round 4] 3 numbers are eliminated! (+12 points)
+Score obtained in this step: 39
+
+############## STEP 10 ###############
+Total score: 96
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 5 5 2 1 5 1 3 4 2
+1 | 5 4 2 5 5 1 5 2 1 3
+2 | 2 3 1 4 1 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 10 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 11 ###############
+Total score: 99
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 5 3 2 1 5 1 3 4 2
+1 | 4 4 2 5 5 1 5 2 1 3
+2 | 2 3 1 4 1 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 15 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 1] 4 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 12 ###############
+Total score: 108
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 5 3 5 5 3 1 3 4 2
+1 | 4 4 2 2 3 2 4 2 1 3
+2 | 2 3 1 4 1 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 02 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 13 ###############
+Total score: 111
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 3 5 5 2 3 1 3 4 2
+1 | 4 4 2 2 3 2 4 2 1 3
+2 | 2 3 1 4 1 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 14 are swapped.
+[round 1] 4 numbers are eliminated! (+6 points)
+Score obtained in this step: 6
+
+############## STEP 14 ###############
+Total score: 117
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 3 3 5 2 4 1 3 4 2
+1 | 4 4 5 5 3 3 4 2 1 3
+2 | 2 3 1 4 1 5 3 3 5 4
+3 | 3 1 3 2 4 2 3 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 15 and 16 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 15 ###############
+Total score: 120
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 3 3 5 2 4 2 3 4 2
+1 | 4 4 5 5 3 4 4 2 1 3
+2 | 2 3 1 4 1 5 3 3 5 4
+3 | 3 1 3 2 4 2 1 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 21 and 31 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+Score obtained in this step: 18
+
+############## STEP 16 ###############
+Total score: 138
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 3 4 2 5 2 4 2 3 4 2
+1 | 2 3 3 5 3 4 4 2 1 3
+2 | 4 4 5 4 1 5 3 3 5 4
+3 | 2 1 1 2 4 2 1 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 10 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 17 ###############
+Total score: 141
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 5 2 4 2 3 4 2
+1 | 2 4 2 5 3 4 4 2 1 3
+2 | 4 4 5 4 1 5 3 3 5 4
+3 | 2 1 1 2 4 2 1 2 1 2
+4 | 2 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 10 and 20 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 18 ###############
+Total score: 144
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 5 2 4 2 3 4 2
+1 | 2 4 2 5 3 4 4 2 1 3
+2 | 2 4 5 4 1 5 3 3 5 4
+3 | 5 1 1 2 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 22 and 23 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 19 ###############
+Total score: 147
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 1 2 4 2 3 4 2
+1 | 2 4 2 4 3 4 4 2 1 3
+2 | 2 4 4 2 1 5 3 3 5 4
+3 | 5 1 1 2 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 12 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 20 ###############
+Total score: 156
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 3 5 2 4 2 3 4 2
+1 | 2 3 2 4 3 4 4 2 1 3
+2 | 2 4 4 3 1 5 3 3 5 4
+3 | 5 4 4 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 21 ###############
+Total score: 159
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 2 3 2 4 2 3 4 2
+1 | 2 3 2 4 3 4 4 2 1 3
+2 | 2 4 4 3 1 5 3 3 5 4
+3 | 5 4 4 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 12 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 22 ###############
+Total score: 162
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 2 3 2 4 2 3 4 2
+1 | 2 3 3 2 3 4 4 2 1 3
+2 | 2 4 3 3 1 5 3 3 5 4
+3 | 5 4 2 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 23 ###############
+Total score: 165
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 1 2 2 4 2 3 4 2
+1 | 2 3 4 2 3 4 4 2 1 3
+2 | 2 4 5 3 1 5 3 3 5 4
+3 | 5 4 2 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 06 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 24 ###############
+Total score: 168
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 1 2 3 1 4 3 4 2
+1 | 2 3 4 2 3 4 4 2 1 3
+2 | 2 4 5 3 1 5 3 3 5 4
+3 | 5 4 2 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 12 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 25 ###############
+Total score: 171
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 1 2 3 1 4 3 4 2
+1 | 2 3 3 2 3 4 4 2 1 3
+2 | 2 2 5 3 1 5 3 3 5 4
+3 | 5 5 2 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 13 and 14 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 26 ###############
+Total score: 174
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 1 1 5 3 1 4 3 4 2
+1 | 2 5 1 2 2 4 4 2 1 3
+2 | 2 2 5 3 1 5 3 3 5 4
+3 | 5 5 2 1 4 2 1 2 1 2
+4 | 4 5 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 21 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 27 ###############
+Total score: 177
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 1 1 5 3 1 4 3 4 2
+1 | 2 2 1 2 2 4 4 2 1 3
+2 | 2 4 5 3 1 5 3 3 5 4
+3 | 5 1 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 12 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 28 ###############
+Total score: 180
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 1 1 5 2 1 4 3 4 2
+1 | 2 1 1 5 3 4 4 2 1 3
+2 | 2 4 5 3 1 5 3 3 5 4
+3 | 5 1 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 21 and 31 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 29 ###############
+Total score: 183
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 1 5 2 1 4 3 4 2
+1 | 2 4 1 5 3 4 4 2 1 3
+2 | 2 1 5 3 1 5 3 3 5 4
+3 | 5 4 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 21 and 22 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 30 ###############
+Total score: 186
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 1 5 2 1 4 3 4 2
+1 | 2 4 2 5 3 4 4 2 1 3
+2 | 2 5 4 3 1 5 3 3 5 4
+3 | 5 4 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 21 and 22 are swapped.
+[round 1] 4 numbers are eliminated! (+6 points)
+Score obtained in this step: 6
+
+############## STEP 31 ###############
+Total score: 192
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 1 5 2 1 4 3 4 2
+1 | 2 5 2 5 3 4 4 2 1 3
+2 | 2 1 5 3 1 5 3 3 5 4
+3 | 5 3 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 32 ###############
+Total score: 195
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 3 3 5 1 2 1 4 3 4 2
+1 | 2 5 2 5 3 4 4 2 1 3
+2 | 2 1 5 3 1 5 3 3 5 4
+3 | 5 3 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 12 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 33 ###############
+Total score: 198
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 3 3 1 1 2 1 4 3 4 2
+1 | 2 3 2 1 3 4 4 2 1 3
+2 | 2 1 5 3 1 5 3 3 5 4
+3 | 5 3 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 05 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 34 ###############
+Total score: 207
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 3 5 3 5 3 2 4 3 4 2
+1 | 2 3 2 1 3 4 4 2 1 3
+2 | 2 1 5 3 1 5 3 3 5 4
+3 | 5 3 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 11 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 35 ###############
+Total score: 210
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 1 5 3 2 4 3 4 2
+1 | 2 5 2 1 3 4 4 2 1 3
+2 | 2 1 5 3 1 5 3 3 5 4
+3 | 5 3 2 1 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 23 and 24 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 6
+
+############## STEP 36 ###############
+Total score: 216
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 1 3 1 2 4 3 4 2
+1 | 2 5 2 5 5 4 4 2 1 3
+2 | 2 1 5 3 3 5 3 3 5 4
+3 | 5 3 2 5 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 12 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 37 ###############
+Total score: 219
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 1 4 1 2 4 3 4 2
+1 | 2 2 1 3 1 4 4 2 1 3
+2 | 2 1 5 3 3 5 3 3 5 4
+3 | 5 3 2 5 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 21 and 22 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 38 ###############
+Total score: 222
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 3 4 1 2 4 3 4 2
+1 | 2 2 1 3 1 4 4 2 1 3
+2 | 2 5 4 3 3 5 3 3 5 4
+3 | 5 3 2 5 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 39 ###############
+Total score: 225
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 2 1 2 4 3 4 2
+1 | 2 2 1 3 1 4 4 2 1 3
+2 | 2 5 4 2 3 5 3 3 5 4
+3 | 5 3 2 5 4 2 1 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 24 and 25 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+Score obtained in this step: 18
+
+############## STEP 40 ###############
+Total score: 243
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 2 1 3 1 2 4 2
+1 | 2 2 1 3 1 2 5 3 1 3
+2 | 2 5 4 2 5 4 5 2 5 4
+3 | 5 3 2 5 4 2 3 2 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 07 and 17 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+Score obtained in this step: 18
+
+############## STEP 41 ###############
+Total score: 261
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 2 1 3 4 2 5 2
+1 | 2 2 1 3 1 2 1 4 4 3
+2 | 2 5 4 2 5 4 5 4 1 4
+3 | 5 3 2 5 4 2 3 3 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 07 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 42 ###############
+Total score: 270
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 2 1 3 2 1 5 2
+1 | 2 2 1 3 1 2 1 2 4 3
+2 | 2 5 4 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 16 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 43 ###############
+Total score: 273
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 2 1 4 1 1 5 2
+1 | 2 2 1 3 1 3 1 1 4 3
+2 | 2 5 4 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 05 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 44 ###############
+Total score: 276
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 2 4 2 2 4 5 2
+1 | 2 2 1 3 1 3 1 1 4 3
+2 | 2 5 4 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 04 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 45 ###############
+Total score: 279
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 3 4 4 3 3 2 4 5 2
+1 | 2 2 1 3 1 3 1 1 4 3
+2 | 2 5 4 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 01 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 46 ###############
+Total score: 282
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 3 4 5 1 3 3 2 4 5 2
+1 | 2 2 1 3 1 3 1 1 4 3
+2 | 2 5 4 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+[round 4] 3 numbers are eliminated! (+12 points)
+[round 4] 3 numbers are eliminated! (+12 points)
+[round 4] 3 numbers are eliminated! (+12 points)
+[round 5] 4 numbers are eliminated! (+30 points)
+[round 6] 3 numbers are eliminated! (+18 points)
+[round 6] 4 numbers are eliminated! (+36 points)
+[round 7] 3 numbers are eliminated! (+21 points)
+Score obtained in this step: 171
+
+############## STEP 47 ###############
+Total score: 453
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 5 3 5 3 2 2 4 5 2
+1 | 3 1 3 3 5 5 1 1 4 3
+2 | 2 5 1 3 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 48 ###############
+Total score: 456
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 5 5 4 3 2 2 4 5 2
+1 | 3 1 3 1 5 5 1 1 4 3
+2 | 2 5 1 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 12 and 22 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 49 ###############
+Total score: 459
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 2 3 2 2 4 5 2
+1 | 3 5 5 4 5 5 1 1 4 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 04 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 50 ###############
+Total score: 462
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 3 2 2 4 4 5 2
+1 | 3 5 5 4 5 5 1 1 4 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 08 and 18 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 51 ###############
+Total score: 465
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 3 2 2 5 2 4 2
+1 | 3 5 5 4 5 5 1 1 5 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 07 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 52 ###############
+Total score: 468
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 3 2 3 1 5 4 2
+1 | 3 5 5 4 5 5 1 1 5 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 12 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 53 ###############
+Total score: 471
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 2 3 4 1 5 4 2
+1 | 3 5 4 3 2 3 1 1 5 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 14 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 54 ###############
+Total score: 474
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 4 4 2 2 1 5 4 2
+1 | 3 5 4 2 2 4 1 1 5 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 01 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 55 ###############
+Total score: 477
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 5 3 2 2 1 5 4 2
+1 | 3 5 4 2 2 4 1 1 5 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 02 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 56 ###############
+Total score: 480
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 3 2 2 1 5 4 2
+1 | 3 5 4 2 2 4 1 1 5 3
+2 | 2 5 3 2 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 04 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 57 ###############
+Total score: 483
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 5 3 2 1 5 4 2
+1 | 3 5 4 1 2 4 1 1 5 3
+2 | 2 5 3 3 5 4 5 3 1 4
+3 | 5 3 2 5 4 2 3 5 1 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 17 and 18 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 58 ###############
+Total score: 486
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 5 3 2 1 5 2 2
+1 | 3 5 4 1 2 4 1 5 5 3
+2 | 2 5 3 3 5 4 5 3 4 4
+3 | 5 3 2 5 4 2 3 5 4 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 16 and 26 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 59 ###############
+Total score: 489
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 5 3 2 4 2 4 2
+1 | 3 5 4 1 2 4 1 5 2 3
+2 | 2 5 3 3 5 4 1 3 4 4
+3 | 5 3 2 5 4 2 3 5 4 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 06 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+Score obtained in this step: 18
+
+############## STEP 60 ###############
+Total score: 507
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 5 3 1 1 3 4 2
+1 | 3 5 4 1 2 5 4 5 2 3
+2 | 2 5 3 3 5 4 4 3 4 4
+3 | 5 3 2 5 4 2 3 5 4 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 08 and 18 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 61 ###############
+Total score: 510
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 5 3 1 1 3 3 2
+1 | 3 5 4 1 2 5 4 5 1 3
+2 | 2 5 3 3 5 4 4 3 4 4
+3 | 5 3 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 09 and 19 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 62 ###############
+Total score: 513
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 4 1 5 3 1 1 4 5 5
+1 | 3 5 4 1 2 5 4 5 1 2
+2 | 2 5 3 3 5 4 4 3 4 4
+3 | 5 3 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 07 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 5-in-a-row at row 0: the ENTIRE row is eliminated! (+30 points)
+Score obtained in this step: 39
+
+############## STEP 63 ###############
+Total score: 552
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 2 5 1 1 2 1 3 2 1
+1 | 3 5 4 1 2 1 4 1 1 2
+2 | 2 5 3 3 5 4 1 3 4 4
+3 | 5 3 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 02 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 64 ###############
+Total score: 561
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 5 1 1 2 1 3 2 1
+1 | 3 4 4 1 2 1 4 1 1 2
+2 | 2 1 3 3 5 4 1 3 4 4
+3 | 5 3 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 02 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 65 ###############
+Total score: 564
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 3 3 2 2 1 3 2 1
+1 | 3 4 4 1 2 1 4 1 1 2
+2 | 2 1 3 3 5 4 1 3 4 4
+3 | 5 3 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 16 are swapped.
+[round 1] 4 numbers are eliminated! (+6 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 12
+
+############## STEP 66 ###############
+Total score: 576
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 3 3 2 1 1 5 5 1
+1 | 3 4 4 1 2 2 4 3 2 2
+2 | 2 1 3 3 5 4 1 3 4 4
+3 | 5 3 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 21 and 31 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 67 ###############
+Total score: 579
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 5 2 2 1 1 5 5 1
+1 | 3 5 3 3 2 2 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 68 ###############
+Total score: 588
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 5 4 1 4 1 5 5 1
+1 | 3 5 3 3 2 1 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 15 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 69 ###############
+Total score: 591
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 5 4 3 3 1 5 5 1
+1 | 3 5 3 3 2 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 70 ###############
+Total score: 600
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 3 1 2 3 5 1 5 5 1
+1 | 3 5 3 4 2 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 11 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 71 ###############
+Total score: 603
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 5 2 2 3 5 1 5 5 1
+1 | 1 5 1 4 2 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 01 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 72 ###############
+Total score: 612
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 5 2 3 5 1 5 5 1
+1 | 1 5 1 4 2 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 11 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 73 ###############
+Total score: 615
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 3 1 3 2 3 5 1 5 5 1
+1 | 1 3 1 4 2 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 11 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 6
+
+############## STEP 74 ###############
+Total score: 621
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 2 3 5 1 5 5 1
+1 | 5 1 2 4 2 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 75 ###############
+Total score: 624
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 1 2 5 1 5 5 1
+1 | 5 1 2 4 3 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 06 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 76 ###############
+Total score: 627
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 1 2 1 5 4 2 1
+1 | 5 1 2 4 3 4 4 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 07 and 17 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 77 ###############
+Total score: 630
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 2 1 2 4 4 1 2 1
+1 | 5 1 2 4 3 1 5 3 2 2
+2 | 2 4 4 1 5 4 1 3 4 4
+3 | 5 1 2 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 13 and 23 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 78 ###############
+Total score: 639
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 4 4 2 4 4 1 2 1
+1 | 5 3 1 1 3 1 5 3 2 2
+2 | 2 1 3 1 5 4 1 3 4 4
+3 | 5 1 1 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 04 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 79 ###############
+Total score: 642
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 4 2 3 3 1 1 2 1
+1 | 5 3 1 1 3 1 5 3 2 2
+2 | 2 1 3 1 5 4 1 3 4 4
+3 | 5 1 1 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 15 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 80 ###############
+Total score: 645
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 4 2 3 5 3 1 2 1
+1 | 5 3 1 1 3 3 5 3 2 2
+2 | 2 1 3 1 5 4 1 3 4 4
+3 | 5 1 1 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 15 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 81 ###############
+Total score: 648
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 5 4 2 3 5 4 1 2 1
+1 | 5 3 1 1 3 5 5 3 2 2
+2 | 2 1 3 1 5 4 1 3 4 4
+3 | 5 1 1 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 12 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 82 ###############
+Total score: 651
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 2 4 2 3 5 4 1 2 1
+1 | 5 3 3 1 3 5 5 3 2 2
+2 | 2 5 3 1 5 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 2 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 10 and 11 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 83 ###############
+Total score: 660
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 4 2 3 5 4 1 2 1
+1 | 3 5 3 1 3 5 5 3 2 2
+2 | 2 4 3 1 5 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 14 and 24 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 84 ###############
+Total score: 663
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 4 2 5 3 2 1 2 1
+1 | 3 5 3 1 3 5 4 3 2 2
+2 | 2 4 3 1 3 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 04 and 05 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 85 ###############
+Total score: 666
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 4 2 2 5 2 1 2 1
+1 | 3 5 3 1 3 5 4 3 2 2
+2 | 2 4 3 1 1 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 06 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+[round 4] 3 numbers are eliminated! (+12 points)
+Score obtained in this step: 30
+
+############## STEP 86 ###############
+Total score: 696
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 2 4 3 4 2 5 1 2 1
+1 | 3 5 3 4 3 5 4 3 2 2
+2 | 2 4 3 1 1 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+############## STEP 87 ###############
+Total score: 705
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 2 4 1 2 2 5 1 2 1
+1 | 3 5 4 4 3 5 4 3 2 2
+2 | 2 4 3 1 1 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 21 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 88 ###############
+Total score: 708
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 1 4 2 2 5 1 2 1
+1 | 3 2 4 1 3 5 4 3 2 2
+2 | 2 5 3 1 1 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 02 and 03 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 89 ###############
+Total score: 711
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 4 4 5 2 2 5 1 2 1
+1 | 3 2 4 4 3 5 4 3 2 2
+2 | 2 5 3 1 1 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 11 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 90 ###############
+Total score: 714
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 5 3 2 2 5 1 2 1
+1 | 3 2 4 5 3 5 4 3 2 2
+2 | 2 5 3 1 1 4 1 3 4 4
+3 | 5 5 1 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 22 and 32 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 91 ###############
+Total score: 717
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 4 3 1 2 5 1 2 1
+1 | 3 2 5 3 2 5 4 3 2 2
+2 | 2 5 4 5 3 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 11 and 12 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 92 ###############
+Total score: 720
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 5 3 4 3 1 2 5 1 2 1
+1 | 3 2 2 3 2 5 4 3 2 2
+2 | 2 2 4 5 3 4 1 3 4 4
+3 | 5 3 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 10 and 20 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 93 ###############
+Total score: 723
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 2 5 2 3 1 2 5 1 2 1
+1 | 5 3 4 3 2 5 4 3 2 2
+2 | 3 2 4 5 3 4 1 3 4 4
+3 | 5 3 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 20 and 21 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 3] 3 numbers are eliminated! (+9 points)
+Score obtained in this step: 18
+
+############## STEP 94 ###############
+Total score: 741
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 1 2 1 1 2 5 1 2 1
+1 | 5 5 4 3 2 5 4 3 2 2
+2 | 2 1 4 5 3 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 01 and 02 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 95 ###############
+Total score: 744
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 2 2 3 3 2 5 1 2 1
+1 | 5 5 4 3 2 5 4 3 2 2
+2 | 2 1 4 5 3 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 13 and 14 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 96 ###############
+Total score: 747
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 2 2 3 4 2 5 1 2 1
+1 | 5 5 4 2 5 5 4 3 2 2
+2 | 2 1 4 5 1 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 97 ###############
+Total score: 750
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 3 2 4 2 5 1 2 1
+1 | 5 5 4 3 5 5 4 3 2 2
+2 | 2 1 4 5 1 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 06 and 16 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 98 ###############
+Total score: 753
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 3 2 2 5 3 1 2 1
+1 | 5 5 4 3 4 2 4 3 2 2
+2 | 2 1 4 5 1 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 05 and 15 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+Score obtained in this step: 3
+
+############## STEP 99 ###############
+Total score: 756
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 3 5 1 1 3 1 2 1
+1 | 5 5 4 3 4 5 4 3 2 2
+2 | 2 1 4 5 1 4 1 3 4 4
+3 | 5 5 3 5 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 03 and 13 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 15
+
+############## STEP 100 ###############
+Total score: 771
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 1 5 5 4 4 1 3 1 2 1
+1 | 5 5 3 2 1 5 4 3 2 2
+2 | 2 1 4 1 1 4 1 3 4 4
+3 | 5 5 3 3 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
+Please enter swapping locations:
+Numbers at 00 and 10 are swapped.
+[round 1] 3 numbers are eliminated! (+3 points)
+[round 2] 3 numbers are eliminated! (+6 points)
+Score obtained in this step: 9
+
+============== GAME OVER ==============
+Total score: 780
+Total numbers eliminated: 465
+Final game board:
+    0 1 2 3 4 5 6 7 8 9
+   --------------------
+0 | 4 1 2 4 3 1 3 1 2 1
+1 | 1 5 3 2 1 5 4 3 2 2
+2 | 2 1 4 1 1 4 1 3 4 4
+3 | 5 5 3 3 4 2 3 5 2 2
+4 | 4 4 5 4 1 3 2 5 3 5
+5 | 1 3 2 5 2 4 1 1 4 2
+6 | 1 1 4 3 5 1 4 1 3 3
+7 | 4 2 4 1 4 1 3 3 2 1
+8 | 3 5 1 4 4 3 2 2 5 3
+9 | 4 1 4 2 3 1 4 1 1 2
+
