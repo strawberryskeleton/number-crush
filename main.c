@@ -12,6 +12,7 @@ int K;
 
 void generate_new_numbers (int board[100]);
 void print_board (int board[100]);
+void elim_matches (int board[100]);
 void initialize_board (int board[100]);
 
 int
@@ -47,6 +48,7 @@ void generate_new_numbers (int board[100]) {
 
 }
 
+
 void print_board (int board[100]) {
     printf("    0 1 2 3 4 5 6 7 8 9\n");
     printf("   --------------------\n");
@@ -62,11 +64,83 @@ void print_board (int board[100]) {
     }
 }
 
+void elim_matches (int board[100]) {
+    int to_clear[100] = {0};
+
+    // for each cell
+    for (int i = 0; i < 100; i++) {
+        int curr_num = board[i];
+
+        if (curr_num == 0) continue;
+
+        // for cells left to right till last[i/10 + 9]
+        if (i % 10 == 0 || board[i-1] != curr_num) {
+            int match_count_H = 1;
+            int row_end = (i/10)*10 + 9;
+
+            for (int j = i+1; j <= row_end; j++) {
+                if (board[j] == curr_num) {
+                    match_count_H++;
+                }
+                else {
+                    break;
+                }
+            }
+
+
+            if (match_count_H >= 3) {
+                // set match to zero
+                for (int j = i; j < i + match_count_H; j++) {
+                    to_clear[j] = 1;
+                }
+                // calc_score(match_count_H, total_score);
+            }
+
+        }
+
+
+        // for cells top to bottom till last[90], each next is i+10
+        if (i < 10 || board[i-10] != curr_num) {
+            int match_count_V = 1;
+
+            for (int j = i+10; j <= 99; j += 10) {
+                if (board[j] == curr_num) {
+                    match_count_V++;
+                }
+                else {
+                    break;
+                }
+            }
+
+
+            if (match_count_V >= 3) {
+                // set match to zero
+                for (int j = i; j < i + match_count_V*10; j += 10) {
+                    to_clear[j] = 0;
+                }
+                // calc_score(match_count_V, total_score);
+            }
+        }
+
+    }
+
+
+    // clear board values from to_clear
+    for (int i = 0; i < 100; i++) {
+        if (to_clear[i] == 1) {
+            board[i] = 0;
+        }
+    }
+}
 
 void initialize_board (int board[100]) {
 
     generate_new_numbers(board);
+    print_board(board);
 
+    printf("==========================\n");
+
+    elim_matches(board);
     print_board(board);
 }
 
