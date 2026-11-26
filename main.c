@@ -116,7 +116,7 @@ void elim_matches (int board[100]) {
             if (match_count_V >= 3) {
                 // set match to zero
                 for (int j = i; j < i + match_count_V*10; j += 10) {
-                    to_clear[j] = 0;
+                    to_clear[j] = 1;
                 }
                 // calc_score(match_count_V, total_score);
             }
@@ -133,6 +133,49 @@ void elim_matches (int board[100]) {
     }
 }
 
+void drop_numbers (int board[100]) {
+
+    // for each cell, starting from last to first
+    // for (int i = 99; i >= 0; i--) {
+    //
+    //     if (board[i] == 0) {
+    //
+    //         int curr_pos = i;
+    //
+    //         while (curr_pos > 9) {
+    //             board[curr_pos] = board[curr_pos - 10];
+    //             curr_pos -= 10;
+    //         }
+    //
+    //         if (curr_pos < 10) {
+    //             board[curr_pos] = 0;
+    //         }
+    //     }
+    //
+    // }
+
+    // for each col
+    for (int col = 0; col <= 9; col++) {
+        int start_from = 9;
+
+        // for each row, from bottom
+        for (int row = 9; row >= 0; row--) {
+            int index = row * 10 + col;
+
+            if (board[index] != 0) {
+                board[start_from * 10 + col] = board[index];
+                start_from--;
+            }
+        }
+
+        // fill all the rest
+        for (int i = start_from; i >= 0; i--) {
+            board[i * 10 + col] = 0;
+        }
+    }
+
+}
+
 void initialize_board (int board[100]) {
 
     generate_new_numbers(board);
@@ -141,6 +184,11 @@ void initialize_board (int board[100]) {
     printf("==========================\n");
 
     elim_matches(board);
+    print_board(board);
+
+    printf("==========================\n");
+
+    drop_numbers(board);
     print_board(board);
 }
 
