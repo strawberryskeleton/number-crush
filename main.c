@@ -10,9 +10,11 @@ uint32_t pseudo_seed = 0;
 int K;
 
 
-void generate_new_numbers (int board[100]);
+void generate_new_board (int board[100]);
 void print_board (int board[100]);
 void elim_matches (int board[100]);
+void drop_numbers (int board[100]);
+void fill_empty_spots (int board[100]);
 void initialize_board (int board[100]);
 
 int
@@ -38,7 +40,7 @@ main (void) {
 }
 
 
-void generate_new_numbers (int board[100]) {
+void generate_new_board (int board[100]) {
 
     for (int i = 0; i < 100; i++) {
         if (board[i] == 0) {
@@ -47,7 +49,6 @@ void generate_new_numbers (int board[100]) {
     }
 
 }
-
 
 void print_board (int board[100]) {
     printf("    0 1 2 3 4 5 6 7 8 9\n");
@@ -176,9 +177,24 @@ void drop_numbers (int board[100]) {
 
 }
 
+void fill_empty_spots (int board[100]) {
+    // for each row, top to bottom
+    for (int i = 0; i < 100; i++) {
+
+        // for each col, left to right
+        for (int j = 0; j < 10; j++) {
+
+            if (board[i+j] == 0) {
+                board[i+j] = tinymt32_generate_uint32(&state) % K + 1;
+            }
+        }
+    }
+}
+
+
 void initialize_board (int board[100]) {
 
-    generate_new_numbers(board);
+    generate_new_board(board);
     print_board(board);
 
     printf("==========================\n");
@@ -189,6 +205,11 @@ void initialize_board (int board[100]) {
     printf("==========================\n");
 
     drop_numbers(board);
+    print_board(board);
+
+    printf("==========================\n");
+
+    fill_empty_spots(board);
     print_board(board);
 }
 
