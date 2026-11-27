@@ -12,7 +12,7 @@ int K;
 
 void generate_new_board (int board[100]);
 void print_board (int board[100]);
-void elim_matches (int board[100]);
+int elim_matches (int board[100]);
 void drop_numbers (int board[100]);
 void fill_empty_spots (int board[100]);
 void initialize_board (int board[100]);
@@ -65,8 +65,10 @@ void print_board (int board[100]) {
     }
 }
 
-void elim_matches (int board[100]) {
+int elim_matches (int board[100]) {
     int to_clear[100] = {0};
+    int isElim = 0;
+
 
     // for each cell
     for (int i = 0; i < 100; i++) {
@@ -91,8 +93,16 @@ void elim_matches (int board[100]) {
 
             if (match_count_H >= 3) {
                 // set match to zero
-                for (int j = i; j < i + match_count_H; j++) {
-                    to_clear[j] = 1;
+                if (match_count_H >= 5) {
+                    int row_start = (i / 10) * 10;
+                    for (int j = row_start; j <= row_start+9; j++) {
+                        to_clear[j] = 1;
+                    }
+                }
+                else {
+                    for (int j = i; j < i + match_count_H; j++) {
+                        to_clear[j] = 1;
+                    }
                 }
                 // calc_score(match_count_H, total_score);
             }
@@ -116,8 +126,15 @@ void elim_matches (int board[100]) {
 
             if (match_count_V >= 3) {
                 // set match to zero
-                for (int j = i; j < i + match_count_V*10; j += 10) {
-                    to_clear[j] = 1;
+                if (match_count_V >= 5) {
+                    for (int r = 0; r < 10; r++) {
+                        to_clear[r*10 + (i%10)] = 1;
+                    }
+                }
+                else {
+                    for (int j = i; j < i + match_count_V*10; j += 10) {
+                        to_clear[j] = 1;
+                    }
                 }
                 // calc_score(match_count_V, total_score);
             }
@@ -130,7 +147,15 @@ void elim_matches (int board[100]) {
     for (int i = 0; i < 100; i++) {
         if (to_clear[i] == 1) {
             board[i] = 0;
+            isElim = 1;
         }
+    }
+
+    if (!isElim) {
+        return 0;
+    }
+    else {
+        return 1;
     }
 }
 
@@ -175,11 +200,14 @@ void drop_numbers (int board[100]) {
         }
     }
 
+    printf("Drop numbers down\n");
+    print_board(board);
+
 }
 
 void fill_empty_spots (int board[100]) {
     // for each row, top to bottom
-    for (int i = 0; i < 100; i++) {
+    for (int i = 0; i < 100; i += 10) {
 
         // for each col, left to right
         for (int j = 0; j < 10; j++) {
@@ -189,27 +217,43 @@ void fill_empty_spots (int board[100]) {
             }
         }
     }
+
+    // printf("Fill empty spots\n");
+    // print_board(board);
 }
 
+void elim_all_matches (int board[100]) {
+
+    while (elim_matches(board) == 1) {
+        // elim_matches(board);
+        drop_numbers(board);
+        fill_empty_spots(board);
+        // printf("elim_all matches call done\n");
+    }
+}
 
 void initialize_board (int board[100]) {
 
     generate_new_board(board);
-    print_board(board);
+    // printf("inital board\n");
+    // print_board(board);
 
-    printf("==========================\n");
+    // printf("==========================\n");
 
-    elim_matches(board);
-    print_board(board);
+    // elim_matches(board);
+    // print_board(board);
+    //
+    // printf("==========================\n");
+    //
+    // drop_numbers(board);
+    // print_board(board);
+    //
+    // printf("==========================\n");
+    //
+    // fill_empty_spots(board);
+    // print_board(board);
 
-    printf("==========================\n");
-
-    drop_numbers(board);
-    print_board(board);
-
-    printf("==========================\n");
-
-    fill_empty_spots(board);
+    elim_all_matches(board);
     print_board(board);
 }
 
